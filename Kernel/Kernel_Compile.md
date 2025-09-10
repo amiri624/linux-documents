@@ -1,4 +1,3 @@
-
 # Kernel Compilation Guide
 
 ## Step 1: Download Kernel Version
