@@ -12,7 +12,7 @@ class MemoryInfoSerializer(serializers.Serializer):
     cached = serializers.IntegerField()
     shared = serializers.IntegerField()
     
-    
+
 class CpuInfoSerializer(serializers.Serializer):
     info = serializers.FloatField()
 
