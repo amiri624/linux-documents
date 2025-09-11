@@ -1,7 +1,6 @@
 # Kernel Compilation Guide
 ## Step 1: Download Kernel Version
 Download your target kernel version from [Kernel.org](https://www.kernel.org).
-
 ## Step 2: Extract Kernel File
 ```bash
 tar -xvf linux-6.0.tar.xz
