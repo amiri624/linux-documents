@@ -1,5 +1,4 @@
 # Kernel Compilation Guide
-
 ## Step 1: Download Kernel Version
 Download your target kernel version from [Kernel.org](https://www.kernel.org).
 
