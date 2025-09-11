@@ -14,7 +14,6 @@ Here are some examples to illustrate different cron job schedules:
 55 12 * * * root hi
 ```
 This command runs `hi` as the `root` user every day at 12:55.
-
 ### Example 2: Run every minute
 ```
 */1 * * * * root hi
