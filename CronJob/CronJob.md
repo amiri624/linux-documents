@@ -25,7 +25,6 @@ This command runs `hi` as the `root` user every minute.
 */2 * * * * root hi
 ```
 This command runs `hi` as the `root` user every 2 minutes.
-
 ### Example 4: Run at specific minutes
 ``` 
 10,20,30 10 * * * root hi
