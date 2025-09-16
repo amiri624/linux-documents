@@ -11,7 +11,6 @@ apt install nginx mariadb-server
 ```
 
 ## Step 3: Install and Enable Dependencies and Certbot
-
 ```bash
 apt install imagemagick php-imagick php-common php-mysql php-fpm php-gd php-json php-curl php-zip php-xml php-mbstring php-bz2 php-intl php-bcmath php-gmp php-zip libmagickcore-6.q16-6-extra
 apt install certbot python3-certbot-nginx
