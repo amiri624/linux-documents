@@ -1,7 +1,6 @@
 # Setting up Nextcloud with Nginx
 
 ## Step 1: Update Repositories and Packages
-
 ```bash
 apt update && apt upgrade -y
 ```
