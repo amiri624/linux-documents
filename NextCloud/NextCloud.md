@@ -18,7 +18,6 @@ systemctl start php8.1-fpm && systemctl enable php8.1-fpm
 ```
 
 ## Step 4: Get and Install Nextcloud
-
 ```bash
 wget https://download.nextcloud.com/server/releases/nextcloud-28.0.4.zip && mkdir -p /sites/nextcloud && unzip nextcloud-*.zip -d /sites/nextcloud
 ```
