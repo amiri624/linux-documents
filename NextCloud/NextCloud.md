@@ -23,7 +23,6 @@ wget https://download.nextcloud.com/server/releases/nextcloud-28.0.4.zip && mkdi
 ```
 
 ## Step 5: Configure SQL
-
 ```bash
 mysql -u root -p
 ```
