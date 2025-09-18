@@ -42,7 +42,6 @@ vim /etc/nginx/sites-enabled/default
 ```
 
 **Nginx Configuration**
-
 ```conf
 upstream php-handler {
     server unix:/var/run/php/php8.1-fpm.sock;
