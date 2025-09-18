@@ -15,6 +15,7 @@ apt install imagemagick php-imagick php-common php-mysql php-fpm php-gd php-json
 apt install certbot python3-certbot-nginx
 systemctl start php8.1-fpm && systemctl enable php8.1-fpm
 ```
+
 ## Step 4: Get and Install Nextcloud
 ```bash
 wget https://download.nextcloud.com/server/releases/nextcloud-28.0.4.zip && mkdir -p /sites/nextcloud && unzip nextcloud-*.zip -d /sites/nextcloud
