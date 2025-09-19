@@ -153,7 +153,8 @@ _header X-Permitted-Cross-Domain-Policies "none" always;
     }
 }
 ```
-## Step 7: Nginx Check
+
+### Step 7: Nginx Check
 ```bash
 nginx -t # Check if configuration has errors
 nginx -s reload
