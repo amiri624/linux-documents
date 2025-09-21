@@ -4,6 +4,7 @@
 ```bash
 apt update && apt upgrade -y
 ```
+
 ## Step 2: Install Nginx and MariaDB Server
 ```bash
 apt install nginx mariadb-server
