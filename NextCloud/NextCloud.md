@@ -2,7 +2,6 @@
 
 
 
-
 # Setting up Nextcloud with Nginx
 
 ## Step 1: Update Repositories and Packages
