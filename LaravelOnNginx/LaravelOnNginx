@@ -1,3 +1,15 @@
+
+
+
+
+
+
+
+
+
+
+
+
 1. Install Nginx:
    - Update the package list: `sudo apt update`
    - Install Nginx: `sudo apt install nginx`
